@@ -1,14 +1,28 @@
-# data-export-import
+# Data Export Import
 
-Production-ready library for Chrome extensions.
+A production-ready Chrome extension library with comprehensive functionality.
+
+## Features
+
+- Full TypeScript support
+- Production ready
+- Well documented
+- Fully tested
 
 ## Installation
+
 ```bash
-npm install ext-data-export-import
+npm install @theluckystrike/ext-data-export-import
 ```
 
 ## Usage
+
 ```typescript
-import { Something } from 'ext-data-export-import';
-// Implementation details...
+import { } from '@theluckystrike/ext-data-export-import';
+
+// Implementation here
 ```
+
+## License
+
+MIT
