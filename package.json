@@ -1,0 +1,21 @@
+{
+  "name": "ext-data-export-import",
+  "version": "1.0.0",
+  "description": "Comprehensive data export/import utility for Chrome extensions with multiple format support",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": ["chrome-extension", "export", "import", "data", "json", "csv", "excel"],
+  "author": "theluckystrike",
+  "license": "MIT",
+  "dependencies": {
+    "papaparse": "^5.4.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/papaparse": "^5.3.14"
+  }
+}
